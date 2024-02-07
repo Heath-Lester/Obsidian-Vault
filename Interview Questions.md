@@ -3,4 +3,5 @@
 
 ## OOP
 [[Object Oriented Programming]]
+[[SOLID Principles]]
 [[Interfaces]]

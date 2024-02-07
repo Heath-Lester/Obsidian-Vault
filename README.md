@@ -2,10 +2,11 @@
 
 ## Rules
 
-1. Link *everything* back to the [Table of Links](README#Table of Links)
-2. Other link hubs are okay
-3. Use triple backticks and [GitHub syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting) for code blocks: e.g.,
-4. Git: Just send it.
+1. No floaters, (at least) link *everything* back to the [Table of Links](README#Table of Links)
+3. Other link hubs are okay
+4. Use triple backticks and [GitHub syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting) for code blocks
+5. If pasting YouTube videos, please use the embedded iframe with `Enable privacy-enhanced mode` checked using the share button
+6. Git: Just fucking send it
 
 ## Link Hubs
 1. [[Nashville Software School Graduates]]
