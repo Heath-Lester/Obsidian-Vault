@@ -13,13 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Interview Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35f8116d68d5ba9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64406381f387609c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c447f8353f6dc4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two Pointer Technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67773a18573f06a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55ccec8257ab3d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f071c8ba896c2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee70d253b70b0b2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ffcca405194fab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Four Pillars of OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Four Pillars of OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Four Pillars of OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Four Pillars of OOP.md"
               }
             }
           }
@@ -147,27 +244,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "144070ceda642224",
+  "active": "0ffcca405194fab3",
   "lastOpenFiles": [
+    "Abstraction.md",
+    "Agile Manifesto.md",
+    "Abstract Classes.md",
+    "Data Structures.md",
     "Encapsulation.md",
     "Four Pillars of OOP.md",
+    "Inheritance.md",
+    "Interview Questions.md",
     "Object Oriented Programming.md",
+    "README.md",
+    "Doubly Linked Lists.md",
+    "Twelve Principles of Agile Software.md",
+    "The Diamond Problem.md",
+    "SOLID Principles.md",
+    "Algorithms.md",
+    "Design Patterns.md",
+    "Single Page Application.md",
+    "Two Pointer Technique.md",
+    "Sliding Window Technique.md",
+    "Search or Traversals.md",
+    "The Byzantine Generals Problem.md",
+    "Big O.md",
     "Nashville Software School Graduates.md",
     "Polymorphism.md",
-    "README.md",
-    "Single Page Application.md",
-    "SOLID Principles.md",
-    "The Byzantine Generals Problem.md",
-    "Design Patterns.md",
-    "Agile Manifesto.md",
-    "The Diamond Problem.md",
-    "Interview Questions.md",
-    "Inheritance.md",
     "Interfaces.md",
-    "Twelve Principles of Agile Software.md",
-    "Abstraction.md",
-    "3.md",
-    "Abstract Classes.md",
-    "Welcome.md"
+    "3.md"
   ]
 }
