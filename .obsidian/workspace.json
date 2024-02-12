@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sliding Window Technique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b41e93d504a67dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture Frameworks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Architecture Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Architecture Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Architecture Frameworks.md"
               }
             }
           }
@@ -244,8 +256,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0ffcca405194fab3",
+  "active": "b41e93d504a67dd4",
   "lastOpenFiles": [
+    "Sliding Window Technique.md",
+    "Architecture Frameworks.md",
+    "README.md",
     "Search or Traversals.md",
     "Four Pillars of OOP.md",
     "Abstraction.md",
@@ -256,7 +271,6 @@
     "Inheritance.md",
     "Interview Questions.md",
     "Object Oriented Programming.md",
-    "README.md",
     "Doubly Linked Lists.md",
     "Twelve Principles of Agile Software.md",
     "The Diamond Problem.md",
@@ -265,12 +279,10 @@
     "Design Patterns.md",
     "Single Page Application.md",
     "Two Pointer Technique.md",
-    "Sliding Window Technique.md",
     "The Byzantine Generals Problem.md",
     "Big O.md",
     "Nashville Software School Graduates.md",
     "Polymorphism.md",
-    "Interfaces.md",
-    "3.md"
+    "Interfaces.md"
   ]
 }
