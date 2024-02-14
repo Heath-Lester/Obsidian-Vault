@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greenfield Project.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greenfield Project.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greenfield Project.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greenfield Project.md"
+                "file": "README.md"
               }
             }
           }
@@ -342,8 +342,13 @@
   },
   "active": "8db9d5f0c424630a",
   "lastOpenFiles": [
-    "Search or Traversals.md",
+    "Two Pointer Technique.md",
+    "Algorithms.md",
+    "Agile Manifesto.md",
+    "Abstraction.md",
+    "Abstract Classes.md",
     "Greenfield Project.md",
+    "Search or Traversals.md",
     "Single Page Application.md",
     "Sliding Window Technique.md",
     "SOLID Principles.md",
@@ -354,19 +359,14 @@
     "Queues.md",
     "Stacks.md",
     "Architecture Frameworks.md",
-    "Algorithms.md",
     "README.md",
     "Four Pillars of OOP.md",
-    "Abstraction.md",
-    "Agile Manifesto.md",
-    "Abstract Classes.md",
     "Data Structures.md",
     "Encapsulation.md",
     "Inheritance.md",
     "Interview Questions.md",
     "Object Oriented Programming.md",
     "Doubly Linked Lists.md",
-    "Twelve Principles of Agile Software.md",
-    "The Diamond Problem.md"
+    "Twelve Principles of Agile Software.md"
   ]
 }
