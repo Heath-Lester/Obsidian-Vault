@@ -1,5 +1,10 @@
 # Obsidian Vault
 
+## How to Use
+
+1. Go to and download [Obsidian](https://obsidian.md/)
+2. Clone this repo
+3. Start Obsidian and open your newly cloned repo with it
 ## Rules
 
 1. No floaters, (at least) link *everything* back to the [Table of Links](README#Table of Links)
