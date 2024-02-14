@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile Principles.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agile Principles.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agile Principles.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agile Principles.md"
+                "file": "README.md"
               }
             }
           }
@@ -356,14 +356,17 @@
   "lastOpenFiles": [
     "Agile Manifesto.md",
     "Agile Principles.md",
-    "Abstraction.md",
-    "Algorithms.md",
-    "Architecture Frameworks.md",
+    "Twelve Principles of Agile Software.md",
+    "README.md",
+    "Sliding Window Technique.md",
     "Design Patterns.md",
-    "Stacks & Queues.md",
-    "Data Structures.md",
-    "Big O.md",
     "Doubly Linked Lists.md",
+    "Data Structures.md",
+    "Architecture Frameworks.md",
+    "Algorithms.md",
+    "Abstraction.md",
+    "Stacks & Queues.md",
+    "Big O.md",
     "Encapsulation.md",
     "Four Pillars of OOP.md",
     "Greenfield Project.md",
@@ -371,14 +374,11 @@
     "Interfaces.md",
     "Nashville Software School Graduates.md",
     "Object Oriented Programming.md",
-    "README.md",
     "Polymorphism.md",
     "Queues.md",
     "Search or Traversals.md",
     "Single Page Application.md",
-    "Sliding Window Technique.md",
     "SOLID Principles.md",
-    "SQL Injection.md",
-    "Stacks.md"
+    "SQL Injection.md"
   ]
 }

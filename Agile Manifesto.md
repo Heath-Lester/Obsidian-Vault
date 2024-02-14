@@ -14,3 +14,5 @@ https://agilemanifesto.org/
 | ---- | ---- | ---- |
 
 <sub>© 2001, the above authors this declaration may be freely copied in any form, but only in its entirety through this notice.</sub>
+
+[[Twelve Principles of Agile Software]]
