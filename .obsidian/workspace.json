@@ -126,9 +126,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b3c1820e495a6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks & Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb5722cd01b34008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ada61e685dd7e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks & Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11f355b248233b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af990afdb953cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc7f6c4d6cffb8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Search or Traversals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db9d5f0c424630a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greenfield Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -194,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture Frameworks.md",
+                "file": "Greenfield Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture Frameworks.md",
+                "file": "Greenfield Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture Frameworks.md"
+                "file": "Greenfield Project.md"
               }
             }
           }
@@ -256,12 +340,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b41e93d504a67dd4",
+  "active": "8db9d5f0c424630a",
   "lastOpenFiles": [
-    "Sliding Window Technique.md",
-    "Architecture Frameworks.md",
-    "README.md",
     "Search or Traversals.md",
+    "Greenfield Project.md",
+    "Single Page Application.md",
+    "Sliding Window Technique.md",
+    "SOLID Principles.md",
+    "SQL Injection.md",
+    "Trees.md",
+    "Normalization.md",
+    "Stacks & Queues.md",
+    "Queues.md",
+    "Stacks.md",
+    "Architecture Frameworks.md",
+    "Algorithms.md",
+    "README.md",
     "Four Pillars of OOP.md",
     "Abstraction.md",
     "Agile Manifesto.md",
@@ -273,16 +367,6 @@
     "Object Oriented Programming.md",
     "Doubly Linked Lists.md",
     "Twelve Principles of Agile Software.md",
-    "The Diamond Problem.md",
-    "SOLID Principles.md",
-    "Algorithms.md",
-    "Design Patterns.md",
-    "Single Page Application.md",
-    "Two Pointer Technique.md",
-    "The Byzantine Generals Problem.md",
-    "Big O.md",
-    "Nashville Software School Graduates.md",
-    "Polymorphism.md",
-    "Interfaces.md"
+    "The Diamond Problem.md"
   ]
 }

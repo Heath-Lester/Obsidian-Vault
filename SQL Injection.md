@@ -1,0 +1,1 @@
+A SQL injection is a type of injection attack that uses an input from the client to insert a SQL query
