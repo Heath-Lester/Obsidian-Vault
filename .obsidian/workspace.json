@@ -205,14 +205,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Agile Manifesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45a9e5f8e283db5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agile Principles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Agile Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Agile Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Agile Principles.md"
               }
             }
           }
@@ -340,33 +352,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8db9d5f0c424630a",
+  "active": "45a9e5f8e283db5f",
   "lastOpenFiles": [
-    "Two Pointer Technique.md",
-    "Algorithms.md",
     "Agile Manifesto.md",
+    "Agile Principles.md",
     "Abstraction.md",
-    "Abstract Classes.md",
+    "Algorithms.md",
+    "Architecture Frameworks.md",
+    "Design Patterns.md",
+    "Stacks & Queues.md",
+    "Data Structures.md",
+    "Big O.md",
+    "Doubly Linked Lists.md",
+    "Encapsulation.md",
+    "Four Pillars of OOP.md",
     "Greenfield Project.md",
+    "Inheritance.md",
+    "Interfaces.md",
+    "Nashville Software School Graduates.md",
+    "Object Oriented Programming.md",
+    "README.md",
+    "Polymorphism.md",
+    "Queues.md",
     "Search or Traversals.md",
     "Single Page Application.md",
     "Sliding Window Technique.md",
     "SOLID Principles.md",
     "SQL Injection.md",
-    "Trees.md",
-    "Normalization.md",
-    "Stacks & Queues.md",
-    "Queues.md",
-    "Stacks.md",
-    "Architecture Frameworks.md",
-    "README.md",
-    "Four Pillars of OOP.md",
-    "Data Structures.md",
-    "Encapsulation.md",
-    "Inheritance.md",
-    "Interview Questions.md",
-    "Object Oriented Programming.md",
-    "Doubly Linked Lists.md",
-    "Twelve Principles of Agile Software.md"
+    "Stacks.md"
   ]
 }
