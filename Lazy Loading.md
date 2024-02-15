@@ -1,0 +1,1 @@
+Lazy loading, also known as code splitting, is just the deferment of the loading of code or it's execution. There are several strategies for lazy loading of which many frameworks have built-in or intended solutions.
