@@ -3,12 +3,14 @@ Big O notation is a formula used to measure the scalability of a function's usag
 - Space: Storage * elements	
 
 ## Rules
+
 1. Always use worst case
 2. Remove constants
 3. Different inputs should have different variables
 4. Drop non-dominant terms
 
 ## Scalings
+
 Eight types of Big O scalings from best to worst:
 1. Constant Time		O(1)
 2. Logarithmic Time	O(log n)
@@ -33,3 +35,7 @@ Times where "n" is the base, as opposed to the exponent.
 Times where "n" is the exponent:
 - Exponential Time	O(2^n)
 - Factorial time		O(!n)
+
+## Logarithmic Time
+
+Logarithmic Time is usually encountered in searches and binary tree traversals.

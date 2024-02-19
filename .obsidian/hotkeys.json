@@ -42,15 +42,6 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:table-row-up": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "workspace:close": [
     {
       "modifiers": [
@@ -63,6 +54,32 @@
         "Mod"
       ],
       "key": "F4"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
     }
   ]
 }

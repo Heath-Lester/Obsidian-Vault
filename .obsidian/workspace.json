@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Binary Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Binary Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Binary Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Binary Trees.md"
               }
             }
           }
@@ -149,31 +149,31 @@
   },
   "active": "5380b2ce9fa8261d",
   "lastOpenFiles": [
-    "README.md",
+    "Data Structures.md",
+    "Binary Trees.md",
+    "Arrays.md",
+    "Architecture Frameworks.md",
+    "Big O.md",
+    "Linked Lists.md",
+    "Lazy Loading.md",
+    "Interfaces.md",
+    "Object Oriented Programming.md",
+    "Doubly Linked Lists.md",
+    "Encapsulation.md",
+    "Agile Manifesto.md",
+    "Design Patterns.md",
+    "Greenfield Project.md",
+    "Inheritance.md",
     "Interview Questions.md",
+    "React Interview Questions.md",
+    "Reactive Principles.md",
+    "Search or Traversals.md",
+    "Single Page Application.md",
+    "README.md",
     "Hash Maps.md",
     "Strings.md",
     "SOLID Principles.md",
-    "React Interview Questions.md",
     "Domain Name System.md",
-    "Promises.md",
-    "Sliding Window Technique.md",
-    "Single Page Application.md",
-    "Search or Traversals.md",
-    "Reactive Principles.md",
-    "Reactive Patterns.md",
-    "Object Oriented Programming.md",
-    "Polymorphism.md",
-    "Queues.md",
-    "Lazy Loading.md",
-    "Hoisting.md",
-    "Memory Storage.md",
-    "Big O.md",
-    "Normalization.md",
-    "Nashville Software School Graduates.md",
-    "Linked Lists.md",
-    "Arrays.md",
-    "Data Structures.md",
-    "Architecture Frameworks.md"
+    "Promises.md"
   ]
 }

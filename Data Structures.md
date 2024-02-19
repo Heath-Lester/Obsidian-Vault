@@ -4,4 +4,4 @@
 [[Linked Lists]]
 [[Doubly Linked Lists]]
 [[Stacks & Queues]]
-[[Trees]]
+[[Binary Trees]]
