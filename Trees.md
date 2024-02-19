@@ -92,8 +92,85 @@ H  I J K L M
 
 ## Binary Search Trees
 
+https://visualgo.net/en/heap
+
 | Method | O |
 | ---- | ---- |
 | lookup | O(log n) |
 | insert | O(log n) |
 | delete | O(log n) |
+### Binary Search Tree Rules
+
+- All increasing values are placed to the right
+- All nodes can only have up to two children
+
+```
+    101
+   /   \
+  33   105
+ / \   /  \
+9  37 104 144  
+```
+
+
+Find 104:
+1. 104 > 101; go right
+2. 104 < 105; go left
+3. 104 == 104; done
+
+
+## Unbalanced Search Trees
+
+An unbalanced search tree are is when a search trees structure starts to fall outside of a compete, full, or perfect binary structure. The long limbs of a search tree essentially start to function as a linked list once sequential numbers continue to be inserted into the tree.
+
+```
+     60
+    /  \
+   30   72
+  / \     \
+ 14  51   73
+ /   /      \
+1  38       78
+    \         \
+    44        85
+                \
+                86
+                  \
+                  90
+                    \
+                    99
+```
+
+Because of this the time complexity starts to become closer to O(n) meaning that in order for a search tree to be optimally efficient, it must be balanced. While Binary trees are not the fastest for data structures, they are fast and consistent for a variety of methods.
+
+|Method|O|
+|---|---|
+|lookup|O(n) |
+|insert|O(n) |
+|delete|O(n) |
+
+## Tries
+
+A Trie is a specialized and non-binary tree that, under normal circumstances can outperform most search trees.
+
+These tree are commonly used for auto suggestions or auto complete.
+
+```
+         HEAD (Empty)
+     /  /  \   \
+    A   D    N   Z
+   / \  |   / \   \
+  R   S O  E   O   E
+ /      |  |   |    \
+E       T  W   T     N
+           |
+           S
+```
+
+The variable used in complexity measurement of a Trie is l for lenth.
+
+|Method|O|
+|---|---|
+|lookup|O(l) |
+|insert|O(l) |
+|delete|O(l) |

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Trees.md",
+                "file": "Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Trees.md",
+                "file": "Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Trees.md",
+                "file": "Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Trees.md"
+                "file": "Trees.md"
               }
             }
           }
@@ -147,18 +147,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5380b2ce9fa8261d",
+  "active": "96a27436bd50b4d2",
   "lastOpenFiles": [
-    "Data Structures.md",
-    "Binary Trees.md",
     "Arrays.md",
-    "Architecture Frameworks.md",
+    "Reactive Principles.md",
+    "Hash Maps.md",
     "Big O.md",
+    "Trees.md",
+    "Doubly Linked Lists.md",
     "Linked Lists.md",
+    "Data Structures.md",
+    "Architecture Frameworks.md",
     "Lazy Loading.md",
     "Interfaces.md",
     "Object Oriented Programming.md",
-    "Doubly Linked Lists.md",
     "Encapsulation.md",
     "Agile Manifesto.md",
     "Design Patterns.md",
@@ -166,11 +168,9 @@
     "Inheritance.md",
     "Interview Questions.md",
     "React Interview Questions.md",
-    "Reactive Principles.md",
     "Search or Traversals.md",
     "Single Page Application.md",
     "README.md",
-    "Hash Maps.md",
     "Strings.md",
     "SOLID Principles.md",
     "Domain Name System.md",

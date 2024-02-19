@@ -1,3 +1,6 @@
+
+https://visualgo.net/en/list
+
 | Method | O |
 | ---- | ---- |
 | getNth | O(n) |
