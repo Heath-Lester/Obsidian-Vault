@@ -1,5 +1,8 @@
-
+Refactoring Guru:
 https://refactoring.guru/design-patterns
+Design Patterns In Use:
+https://github.com/milanm/DesignPatternsInUse
+
 
 Design patterns generally fall into three categories: creation, structural, and behavioral.
 

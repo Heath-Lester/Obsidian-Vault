@@ -15,11 +15,39 @@
               "state": {
                 "file": "Trees.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bc2f5e3006eabf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Interview Questions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b164bd11019837c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees.md",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Design Patterns.md"
               }
             }
           }
@@ -147,33 +175,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "96a27436bd50b4d2",
+  "active": "b164bd11019837c4",
   "lastOpenFiles": [
-    "Arrays.md",
-    "Reactive Principles.md",
-    "Hash Maps.md",
-    "Big O.md",
-    "Trees.md",
-    "Doubly Linked Lists.md",
-    "Linked Lists.md",
-    "Data Structures.md",
-    "Architecture Frameworks.md",
-    "Lazy Loading.md",
-    "Interfaces.md",
-    "Object Oriented Programming.md",
-    "Encapsulation.md",
-    "Agile Manifesto.md",
-    "Design Patterns.md",
-    "Greenfield Project.md",
-    "Inheritance.md",
-    "Interview Questions.md",
-    "React Interview Questions.md",
-    "Search or Traversals.md",
-    "Single Page Application.md",
-    "README.md",
-    "Strings.md",
     "SOLID Principles.md",
+    "Sliding Window Technique.md",
+    "Single Page Application.md",
+    "Search or Traversals.md",
+    "README.md",
+    "Reactive Patterns.md",
+    "React Interview Questions.md",
+    "Object Oriented Programming.md",
+    "Polymorphism.md",
+    "Linked Lists.md",
+    "SQL Injection.md",
+    "Four Pillars of OOP.md",
+    "Normalization.md",
+    "Abstraction.md",
+    "Agile Manifesto.md",
+    "Abstract Classes.md",
+    "Design Patterns.md",
+    "Reactive Principles.md",
+    "Promises.md",
     "Domain Name System.md",
-    "Promises.md"
+    "Interfaces.md",
+    "Inheritance.md",
+    "Generic Types.md",
+    "Trees.md",
+    "Arrays.md",
+    "Hash Maps.md"
   ]
 }
