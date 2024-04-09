@@ -1,0 +1,1 @@
+Concurrency is a strategy implemented by single threaded languages that allows a single thread to run multiple jobs at the same time.

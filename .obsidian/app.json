@@ -3,5 +3,7 @@
   "promptDelete": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "showIndentGuide": false
+  "showIndentGuide": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }
