@@ -94,11 +94,11 @@ H  I J K L M
 
 https://visualgo.net/en/heap
 
-| Method | O |
-| ---- | ---- |
-| lookup | O(log n) |
-| insert | O(log n) |
-| delete | O(log n) |
+| Method | [[Big O]] |
+| ------ | --------- |
+| lookup | O(log n)  |
+| insert | O(log n)  |
+| delete | O(log n)  |
 ### Binary Search Tree Rules
 
 - All increasing values are placed to the right
@@ -143,11 +143,11 @@ An unbalanced search tree are is when a search trees structure starts to fall ou
 
 Because of this the time complexity starts to become closer to O(n) meaning that in order for a search tree to be optimally efficient, it must be balanced. While Binary trees are not the fastest for data structures, they are fast and consistent for a variety of methods.
 
-|Method|O|
-|---|---|
-|lookup|O(n) |
-|insert|O(n) |
-|delete|O(n) |
+| Method | [[Big O]] |
+| ------ | --------- |
+| lookup | O(n)      |
+| insert | O(n)      |
+| delete | O(n)      |
 
 ## Tries
 
@@ -169,8 +169,8 @@ E       T  W   T     N
 
 The variable used in complexity measurement of a Trie is l for lenth.
 
-|Method|O|
-|---|---|
-|lookup|O(l) |
-|insert|O(l) |
-|delete|O(l) |
+| Method | [[Big O]] |
+| ------ | --------- |
+| lookup | O(l)      |
+| insert | O(l)      |
+| delete | O(l)      |

@@ -1,0 +1,1 @@
+Media queries allow a program to get information about the device rendering a web page. This is useful for creating responsive layouts by determining the resolution of the window that an application is being rendered in.

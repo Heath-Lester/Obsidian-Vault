@@ -8,189 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11d0d5788e185c0",
+            "id": "3b22d9886deb7e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sliding Window Technique.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abaef84b7c7675a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a918c21267c8c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regular Expressions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7483999352d3c466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interpreted vs Compiled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d3f5486a107633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic vs Static Typed.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b7f0cdfc736f797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15d296b7239f9eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garbage Collection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceb0af3f9e20eb47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signed Integers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1acae4585fa290c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9635facaf9fe886e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object Oriented Programming.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "199ffeb174209149",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threads.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e1005572349f934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parallelism.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b875d168613dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain Name System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88dadc9e406553fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two Shifting Pointer Technique.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain Name System.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain Name System.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain Name System.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -318,33 +148,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "96b875d168613dcb",
+  "active": "3b22d9886deb7e25",
   "lastOpenFiles": [
-    "Concurrency.md",
-    "Parallelism.md",
-    "Threads.md",
-    "Object Oriented Programming.md",
-    "Declarative vs Imperative Programming.md",
-    "Algorithms.md",
-    "Expression vs Statement.md",
-    "Signed Integers.md",
-    "Garbage Collection.md",
-    "Pointer.md",
-    "Dynamic vs Static Typed.md",
-    "Interpreted vs Compiled.md",
-    "Regular Expressions.md",
-    "Untitled 1.md",
-    "Subproblem.md",
-    "Algorithm Notes.md",
-    "My Coding Style.md",
-    "Sliding Window Technique.md",
-    "Two Shifting Pointer Technique.md",
-    "Trees.md",
-    "React Interview Questions.md",
+    "Abstraction.md",
+    "README.md",
     "Design Patterns.md",
-    "Domain Name System.md",
-    "Angular JS.md",
-    "JQuery.md",
-    "Generic Types.md"
+    "The Byzantine Generals Problem.md",
+    "React Interview Questions.md",
+    "JavaScript.md",
+    "Primitive Data Types.md",
+    "Delimiter.md",
+    "1.md",
+    "Hypertext Markup Language.md",
+    "V8.md",
+    "ECMAScript.md",
+    "WebAssembly.md",
+    "Node.js.md",
+    "World Wide Web.md",
+    "Dynamic vs Static Typed.md",
+    "Document Object Model.md",
+    "Data Structures.md",
+    "Contiguous.md",
+    "Arrays.md",
+    "Big O.md",
+    "Trees.md",
+    "Stacks.md",
+    "Queues.md",
+    "Linked Lists.md",
+    "Algorithm Notes.md"
   ]
 }

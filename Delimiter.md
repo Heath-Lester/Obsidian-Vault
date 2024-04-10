@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Delimiter
+
+A **delimiter** is a sequence of one or more [characters](https://en.wikipedia.org/wiki/Character_(computing) "Character (computing)") for specifying the boundary between separate, independent regions in [plain text](https://en.wikipedia.org/wiki/Plain_text "Plain text"), [mathematical expressions](https://en.wikipedia.org/wiki/Expression_(mathematics) "Expression (mathematics)") or other [data streams](https://en.wikipedia.org/wiki/Data_stream "Data stream").[1](https://en.wikipedia.org/wiki/Delimiter#cite_note-1)[2](https://en.wikipedia.org/wiki/Delimiter#cite_note-2)

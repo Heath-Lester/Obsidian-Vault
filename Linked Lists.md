@@ -1,12 +1,12 @@
 
 https://visualgo.net/en/list
 
-| Method | O |
-| ---- | ---- |
-| getNth | O(n) |
-| addFirst | O(1) |
-| addEnd | O(n) |
-| remove | O(n) |
+| Method   | [[Big O]] |
+| -------- | --------- |
+| getNth   | O(n)      |
+| addFirst | O(1)      |
+| addEnd   | O(n)      |
+| remove   | O(n)      |
 
 ```java
  public class ListNode {

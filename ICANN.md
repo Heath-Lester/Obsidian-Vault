@@ -1,0 +1,1 @@
+ICANN is a non-profit organization that is responsible for overseeing namespaces on the internet.

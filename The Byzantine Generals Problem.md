@@ -10,5 +10,4 @@ As an analogy of the fault's simplest form, consider a number of generals who ar
 >If all generals attack in coordination, the battle is won. If two generals falsely declare that they intend to attack, but instead retreat, the battle is lost 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IP-rGJKSZ3s?si=I3LC50Ehdsa4lewy" style="border-radius: 4px" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/IP-rGJKSZ3s?si=I3LC50Ehdsa4lewy" style="border-radius: 4px; aspect-ratio: 16/9;" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

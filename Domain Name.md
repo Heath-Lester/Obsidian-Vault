@@ -1,0 +1,1 @@
+Domain names are register via a [[Registrar]]. These names are mapped to and IP address on a cloud server by a [[Domain Name System]].

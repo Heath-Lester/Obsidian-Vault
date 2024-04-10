@@ -4,7 +4,7 @@
 2. How to render an element outside of the component scope/tree?
 	- Use React createPortal and specify the HTML element you where you want it to render
 3. How to implement code splitting (lazy loading) in your React app and why?
-	-  Utilize Reacts lazy, which uses JavaScript promises to lazy load components.
+	-  Utilize Reacts lazy, which uses [[JavaScript]] promises to lazy load components.
 	- Use the callback in lazy to specify the path of the component(s) you want to lazily load.
 	- You then call the component in the HMTL inside of `<Suspense> ` tags.
 	- You can also specify fallback HTML to take it's place while the component is being loaded.
@@ -23,4 +23,4 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3BN-YHcJfOY?si=LtqrG0QWDmZjLu0-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 4px;"></iframe>
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/3BN-YHcJfOY?si=LtqrG0QWDmZjLu0-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 4px; aspect-ratio: 16/9;"></iframe>

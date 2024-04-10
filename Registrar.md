@@ -1,0 +1,1 @@
+A registrar is an entity that registers domain names to websites that are accredited by [[ICANN]]

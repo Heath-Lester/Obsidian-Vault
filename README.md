@@ -9,5 +9,9 @@
 
 1. Use triple backticks and [GitHub syntax highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting) for code blocks
 2. If pasting YouTube videos, please use the embedded iframe with `Enable privacy-enhanced mode` checked using the share button
-3. Git: Just fucking send it. Pull latest to a test branch if you're really worried about it.
-4. Git messages: comma separated names of file/subject you added or changed at least; if lazy, just summarize
+3. When using iframes, please do the following:
+	1. change the width to `width="100%"`
+	2. Remove the height attribute
+	3. Add this style attribute:  `style="border-radius: 4px; aspect-ratio: 16/9;"`
+4. Git: Just fucking send it. Pull latest to a test branch if you're really worried about it.
+5. Git messages: comma separated names of file/subject you added or changed at least; if lazy, just summarize

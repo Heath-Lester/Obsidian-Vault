@@ -6,7 +6,7 @@ https://github.com/milanm/DesignPatternsInUse
 
 Design patterns generally fall into three categories: creation, structural, and behavioral.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZfG8BSTX0Lw?si=fMoJSp0YDkPStCET" title="YouTube video player" frameborder="1px" style="border-radius: 4px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/ZfG8BSTX0Lw?si=fMoJSp0YDkPStCET" title="YouTube video player" frameborder="1px" style="border-radius: 4px; aspect-ratio: 16/9;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Creational Patterns
 
 https://refactoring.guru/design-patterns/creational-patterns

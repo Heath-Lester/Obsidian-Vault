@@ -1,5 +1,7 @@
 A DNS is a database that contains public IP addresses associated to names. It allows servers to find IP addresses for websites and other forms of communication.
 
+Another way to think of it is as a phone book for the internet.
+
 | Website | IP |
 | ---- | ---- |
 | google.com | 8.8.8.8 |
