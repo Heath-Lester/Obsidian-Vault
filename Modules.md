@@ -1,0 +1,1 @@
+A module is essentially a file with code in it. The code in a module is privately accessible only to the module unless it is exported.
