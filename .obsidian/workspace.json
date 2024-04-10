@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "3b22d9886deb7e25",
   "lastOpenFiles": [
+    "JavaScript.md",
     "Abstraction.md",
     "README.md",
     "Design Patterns.md",
     "The Byzantine Generals Problem.md",
     "React Interview Questions.md",
-    "JavaScript.md",
     "Primitive Data Types.md",
     "Delimiter.md",
     "1.md",

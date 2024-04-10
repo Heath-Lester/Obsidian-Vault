@@ -13,5 +13,5 @@
 	1. change the width to `width="100%"`
 	2. Remove the height attribute
 	3. Add this style attribute:  `style="border-radius: 4px; aspect-ratio: 16/9;"`
-4. Git: Just fucking send it. Pull latest to a test branch if you're really worried about it.
+4. Git: Just send it. Pull latest to a test branch if you're really worried about it.
 5. Git messages: comma separated names of file/subject you added or changed at least; if lazy, just summarize
