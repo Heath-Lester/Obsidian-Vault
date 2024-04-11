@@ -1,5 +1,10 @@
 [[Search or Traversals]]
 
+## Techniques
+- [[Two Pointer Technique]]
+- [[Two Shifting Pointer Technique]]
+- [[Sliding Window Technique]]
+
 
 ## Strategies
 
@@ -22,3 +27,6 @@ Greedy:
 Backtracking:
 	Incrementally looking through all options.
 
+
+## Established Algorithms
+- [[Floyds Tortoise & Hare Algorithm]]

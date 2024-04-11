@@ -9,6 +9,8 @@
 - Can run JS on a server using [[Node.js]] & Dino
 - Scripting Language ([[Scripting vs Programming Language]])
 - Interpreted Language ([[Interpreted vs Compiled Languages]])
+- Vanilla JS tends to be used imperatively ([[Declarative vs Imperative Programming]])
+- JS Frameworks allow declarative programming
 - Uses the engine [[V8]]
 - Used by HTML imported through a script element ([[Hypertext Markup Language]])
 - Can use the `defer` attribute on script tags to wait until the document is fully loaded before executing the index.js file
@@ -28,12 +30,17 @@
 - Objects can inherit properties from one another using the prototype chain.
 - Every object has a private property that links to exactly one prototype.
 - Prototype inheritance differs from class inheritance
-- Memory is Garbage Collected
+- Memory is automatically Garbage Collected ([[Garbage Collection]])
 - WeakMap and WeakSet are types that are optimized to have their properties garbage collected
 - Has non-blocking event loops that is asynchronous by running in a different thread pool than the other
 - Single Threaded, the thread it uses is called the "main" thread
 - Can use callback functions ([[Callback Functions]])
 - Can use NPM to import third-party modules ([[Node Package Manager]])
+- Code is organized in [[Modules]]
+- Can use [[Non-Blocking Event Loops]] to utilize multiple threads
+- After the code base reaches a certain size, can greatly benefit from [[Module Bundlers]]
+- Functions are able to use [[Higher Order Functions]]
+- Has [[Signed Integers]]
 
 ### Primitive Data Types
 
