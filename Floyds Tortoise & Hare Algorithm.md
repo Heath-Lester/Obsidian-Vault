@@ -7,43 +7,73 @@ This algorithm is essentially a two pointer strategy for linked list cycle detec
 
 The premise is that one pointer iterates sequentially while the other moves at double the others speed. 
 
-`T` moves 1 while `H` moves 2.
+Starting at the same point, `T` moves 1 while `H` moves 2.
+
+```
+                      > [] > [] >
+[T, H] > [] > [] > []             []
+                      < [] < [] <
+```
 
 ```
                     > [] > [] >
-[T] > [H] > [] > []             []
+[] > [T] > [H] > []             []
                     < [] < [] <
 ```
 
 ```
-                    > [] > [] >
-[] > [T] > [] > [H]             []
-                    < [] < [] <
-```
-
-```
-                   > [] > [H] >
+                   > [H] > [] >
 [] > [] > [T] > []              []
                    < [] < [] <
 ```
 
 ```
                    > [] > [] >
-[] > [] > [] > [T]             []
-                   < [] < [H] <
-```
-
-```
-                   > [T] > [] >
-[] > [] > [] > [H]             []
+[] > [] > [] > [T]             [H]
                    < [] < [] <
 ```
 
 ```
-                  > [] > [T,H] >
-[] > [] > [] > []                []
+                  > [T] > [] >
+[] > [] > [] > []              []
+                  < [H] < [] <
+```
+
+```
+                  > [H] > [T] >
+[] > [] > [] > []              []
                    < [] < [] <
 ```
 
+```
+                  > [] > [] >
+[] > [] > [] > []             [T, H]
+                  < [] < [] <
+```
 
-Part of what makes this so efficient is that the number of iterations is less than the total element in the linked list making the [[Big O]] a little less than O(1).
+Now that the tortoise and hare have met, you can take the meeting point and the head and walk them back together until they meet to find the origin of the cycle.
+
+```
+               > [] > [] >
+[P] > [] > [] > []             [M]
+               < [] < [] <
+```
+
+
+```
+                   > [] > [] >
+[] > [P] > [] > []             []
+                   < [] < [M] <
+```
+
+```
+                   > [] > [] >
+[] > [] > [P] > []              []
+                   < [M] < [] <
+```
+
+```
+                     > [] > [] >
+[] > [] > [] > [P,M]             []
+                     < [] < [] <
+```
