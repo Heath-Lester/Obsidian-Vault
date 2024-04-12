@@ -1,5 +1,5 @@
 
-In [[JavaScript]], all uninstantiated variables default to undefined.
+In [[JavaScript]], all uninstantiated variables default to undefined. Undefined is actually a special value in JavaScript which means that a variable has not been set.
 
 Null is generally considered to be intentional while undefined is considered to be unintentional.
 

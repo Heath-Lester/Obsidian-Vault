@@ -56,3 +56,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 |[String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#string_type)|`"string"`|[`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)|
 |[Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#symbol_type)|`"symbol"`|[`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)|
 
+
+## The Weird Stuff
+
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/Bv_5Zv5c-Ts?si=0JKmD3NwbORkub78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="border-radius: 4px; aspect-ratio: 16/9;"></iframe>
+
+

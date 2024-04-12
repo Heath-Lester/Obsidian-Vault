@@ -12,3 +12,6 @@ function greeting() {
 }
 ```
 
+
+
+The reason hoisting works is because in the [[Execution Context]], or the creation phase, memory is allocated for the code that has not yet been parsed by the interpreter. The pointer for the member is created before it is read. For variables, the value in the creation phase is set to undefined until the execution phase where it is assigned to what is written.
