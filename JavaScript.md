@@ -41,6 +41,8 @@
 - After the code base reaches a certain size, can greatly benefit from [[Module Bundlers]]
 - Functions are able to use [[Higher Order Functions]]
 - Has [[Signed Integers]]
+- `.sort()` method converts input into strings and compares their Unicode character code at the first position. ([[Sorting]])
+
 
 ### Primitive Data Types
 

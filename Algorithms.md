@@ -1,10 +1,12 @@
-[[Search or Traversals]]
-
 ## Techniques
 - [[Two Pointer Technique]]
 - [[Two Shifting Pointer Technique]]
 - [[Sliding Window Technique]]
 
+## Methods
+- [[Recursion]]
+- [[Sorting]]
+- [[Search or Traversals]]
 
 ## Strategies
 
