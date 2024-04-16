@@ -2,6 +2,28 @@
 Stacks are a linear data structure that can only be accessed from the top or most recent element.
 Also known as LIFO: Last In First Out.
 
+```
+[][][][][][][]
+```
+
+```
+Pop
+[][][][][][][] 
+[][][][][][]   -> []
+[][][][][][]
+```
+
+```
+Push
+[][][][][][] 
+[][][][][][][] <-  
+[][][][][][][]
+```
+
+```
+Peek      v  
+[][][][][][] 
+```
 
 | Method | [[Big O]] |
 | ------ | --------- |
